@@ -1,6 +1,6 @@
 # DevOps Training Materials
 
-This repository contains the training materials for Acme Corp's DevOps onboarding program...
+This repository contains the training materials for UST DevOps onboarding program...
 
 ## Table of Contents
 
