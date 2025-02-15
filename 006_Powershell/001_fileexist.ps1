@@ -1,4 +1,4 @@
-#Author: Gowri Sankar Marepalli
+#Author: Akash Nadigepu
 #Purpose: Learning basic powershell scripting
 #Usage:  ./filename.ps1
 #Program: power shell script to check whether the desktop folder exists or not and listing files
